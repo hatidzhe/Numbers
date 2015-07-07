@@ -1,6 +1,6 @@
 package com.hatidzhe;
 import java.util.Scanner;
-import java.lang.Integer;
+
 
 public class Main {
 
